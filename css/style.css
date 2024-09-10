@@ -70,3 +70,8 @@ body{
         width: 70%;
         height: auto;
 }
+.box{
+    background-color: rgb(195, 205, 165);
+    text-align: center;
+    border: 2px solid rgb(114, 102 ,88);
+}
