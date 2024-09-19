@@ -77,6 +77,11 @@ body{
     text-align: center;
     border: 2px solid rgb(114, 102 ,88);
     border-radius: 8px;
+    margin-top: 10px;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
 }
 
 .image-container {
@@ -113,3 +118,35 @@ body{
     
 }
 
+.cert{
+    background-color: rgb(195, 205, 165);
+    text-align: center;
+    border: 2px solid rgb(114, 102 ,88);
+    border-radius: 8px;
+    margin-top: 10px;
+    max-width: 70%;
+    max-height: 1000px;
+
+}
+
+.side-img {
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: rgb(89, 74 ,66);
+    max-width: 180px;
+    border-radius: 8px;
+    border: 2px solid rgb(114, 102 ,88);
+}
+    
+    
+.img-cont2 {
+    display: flex;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    position: relative;
+    margin: auto;
+    z-index: 1;
+    justify-content: center;
+
+}
